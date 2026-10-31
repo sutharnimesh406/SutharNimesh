@@ -1,6 +1,6 @@
 ### Hi, I'm Nimesh Suthar 👋
 
-**Data Analyst | Power BI | SQL | Excel | Ahmedabad, India**
+**Data Analyst | Power BI | SQL | Excel | Palanpur, India**
 
 I'm passionate about turning raw data into meaningful stories and dashboards.
 
